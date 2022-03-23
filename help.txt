@@ -1,7 +1,25 @@
-Prefix: >
+```python
 
-    Commands:
+@Prefix: >
+
+@Commands:
+
+    >info
+-information about bot
+
+    >addrole @role @member
 -Add role to member:
-    >addrole @role @member   
--Remove role form member
+
     >Remove @role @member
+-Remove role frоm member
+
+    >fish @member
+-make fish name
+
+    >rand numder1 number2
+-generate random number frоm number1 to number2
+
+    >choose word1 word2
+-random choosing word1 оr word2
+
+```
